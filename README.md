@@ -1,8 +1,9 @@
-# React + Vite
+### React Search and Highlight task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# How to run this app with Vite and React:
+# 1. Make sure you have Node.js and npm installed.
+# 2. Navigate to your project directory in the terminal.
+# 3. Install dependencies by running:
+#    npm install
+# 4. Start the development server by running:
+#    npm run dev

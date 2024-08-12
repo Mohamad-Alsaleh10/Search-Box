@@ -1,7 +1,4 @@
-// src/components/SearchHighlight.js
-
 import  { useState } from 'react';
-import { articles } from './../articles';
 
 const SearchHighlight = ({ articles }) => {
     const [searchTerm, setSearchTerm] = useState('');
